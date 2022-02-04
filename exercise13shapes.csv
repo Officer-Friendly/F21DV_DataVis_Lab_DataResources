@@ -1,0 +1,7 @@
+shape,x,y,width,height,x1,x2,y1,y2,cx,cy,rx,ry,r,format,color
+rect,100,100,200,150,0,0,0,0,0,0,0,0,0,"fill","blue"
+line,0,0,0,0,280,280,100,250,0,0,0,0,0,"stroke","black"
+rect,90,100,220,20,0,0,0,0,0,0,0,0,0,"fill","red"
+ellipse,0,0,0,0,0,0,0,0,240,180,25,25,0,"fill","lightblue"
+rect,130,150,40,100,0,0,0,0,0,0,0,0,0,"fill","brown"
+circle,0,0,0,0,0,0,0,0,150,135,0,15,"fill","lightblue"
